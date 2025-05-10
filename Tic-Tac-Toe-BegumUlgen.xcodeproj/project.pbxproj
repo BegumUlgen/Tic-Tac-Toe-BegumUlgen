@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		B224FEEC2DCB6AF000EC719B /* NavStackContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = B224FEEB2DCB6AF000EC719B /* NavStackContainer.swift */; };
 		B224FEEF2DCB6DB200EC719B /* GamesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B224FEEE2DCB6DB200EC719B /* GamesViewController.swift */; };
+		B24DB1772DCF936500674E1C /* BotViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B24DB1762DCF936500674E1C /* BotViewController.swift */; };
 		B2FEC1CB2DC9E97100E921C0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2FEC1CA2DC9E97100E921C0 /* AppDelegate.swift */; };
 		B2FEC1CD2DC9E97100E921C0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2FEC1CC2DC9E97100E921C0 /* SceneDelegate.swift */; };
 		B2FEC1CF2DC9E97100E921C0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2FEC1CE2DC9E97100E921C0 /* ViewController.swift */; };
@@ -22,6 +23,7 @@
 /* Begin PBXFileReference section */
 		B224FEEB2DCB6AF000EC719B /* NavStackContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavStackContainer.swift; sourceTree = "<group>"; };
 		B224FEEE2DCB6DB200EC719B /* GamesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GamesViewController.swift; sourceTree = "<group>"; };
+		B24DB1762DCF936500674E1C /* BotViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BotViewController.swift; sourceTree = "<group>"; };
 		B2FEC1C72DC9E97100E921C0 /* Tic-Tac-Toe-BegumUlgen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tic-Tac-Toe-BegumUlgen.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2FEC1CA2DC9E97100E921C0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B2FEC1CC2DC9E97100E921C0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 				B2FEC1CA2DC9E97100E921C0 /* AppDelegate.swift */,
 				B2FEC1CC2DC9E97100E921C0 /* SceneDelegate.swift */,
 				B2FEC1CE2DC9E97100E921C0 /* ViewController.swift */,
+				B24DB1762DCF936500674E1C /* BotViewController.swift */,
 				B224FEED2DCB6C6F00EC719B /* Game Screen */,
 				B2FEC1E02DC9F6A800E921C0 /* Models */,
 				B2FEC1D02DC9E97100E921C0 /* Main.storyboard */,
@@ -181,6 +184,7 @@
 				B2FEC1CB2DC9E97100E921C0 /* AppDelegate.swift in Sources */,
 				B224FEEF2DCB6DB200EC719B /* GamesViewController.swift in Sources */,
 				B2FEC1CD2DC9E97100E921C0 /* SceneDelegate.swift in Sources */,
+				B24DB1772DCF936500674E1C /* BotViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
